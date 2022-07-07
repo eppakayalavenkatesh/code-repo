@@ -1,3 +1,3 @@
-#code for git
+# code for git
 
 git commands 
